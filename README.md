@@ -20,6 +20,15 @@ then eventually move them to a database, implement a backend, then implement a f
 
 ## FrontEnd
 <ol>
+<li>What are goes in the head element?</li>
+<ul>
+<li>title: title of the doc</li>
+<li>style</li>
+<li>meta</li>
+<li>link</li>
+<li>script</li>
+<li>base</li>
+</ul>
 <li>
 What are some basic design elements?</li>
 <p>size, color, line, texture</p>
