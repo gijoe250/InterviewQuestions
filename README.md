@@ -6,8 +6,7 @@ then eventually move them to a database, implement a backend, then implement a f
 
 # Table of contents
 <ol>
-<li>Debugging</li>
-<li>CD/CI</li>
+<li>Java</li>
 <li>BackEnd</li>
 <li>FrontEnd</li>
 <ol>
