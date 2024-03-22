@@ -13,7 +13,25 @@ then eventually move them to a database, implement a backend, then implement a f
 <li>HTML</li>
 <li>CSS</li>
 </ol>
+<li>Case Study 1</li>
 </ol>
+
+## Java
+Why is Java popular? 
+
+It is popular because it is an object oriented language and it has platform independence
+
+What is platform independence?
+
+I can build a Java program once anywhere, and it can run on any operating system. 
+
+Explain:
+
+When Java files are complied, we get Java class files. These class files have 
+bytecode that a JVMs(Java Virtual Machine) will convert into 
+executable instructions for the respective Operating System.
+
+
 
 ## BackEnd 
 
@@ -100,3 +118,16 @@ Example: charset="UTF-8", name="description"</p>
 <li>class targets a class name: .</li>
 </ol>
 </ol>
+
+### Case Study 1
+Question: You have been hired as a Quality Engineer at a software development company that specializes in developing mobile applications. The company has recently released a new mobile app that has received mixed reviews from users. 
+While some users appreciate its features and functionality, others have reported encountering bugs and usability issues.
+
+Problem: The reviews state there are bugs and usability issues that the users are experiencing with the new app. 
+
+2 Impacts: This is hurting user satisfaction and market success shown by the mixed reviews
+
+Ways to move forward: Analyze the reviews, to identify how many different possible issues there are. 
+Have the ability to leave tags with a review, preferably established tags, to make it easier to locate the issue.
+We can send out surveys if it is possible, or have a ticket/bug system in place, having customers address specific questions.
+Have our testers run through the application.
